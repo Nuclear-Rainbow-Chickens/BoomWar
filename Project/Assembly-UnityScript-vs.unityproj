@@ -47,6 +47,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\BarrelScript.js" />
+     <Compile Include="Assets\Scripts\BlockScript.js" />
+     <Compile Include="Assets\Scripts\BulletScript.js" />
+     <Compile Include="Assets\Scripts\CameraScript.js" />
+     <Compile Include="Assets\Scripts\FireScript.js" />
      <Compile Include="Assets\Scripts\TargetScript.js" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

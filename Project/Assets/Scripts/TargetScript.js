@@ -5,13 +5,13 @@ var UpButton:KeyCode;
 var DownButton:KeyCode;
 var cam:Camera;
 var speed:float;
-var TargetHue:Color;
 private var height:float;
 private var width:float;
 function Start () {
-	renderer.material.color = TargetHue;
 	height = 2f * cam.orthographicSize;
 	width = height * cam.aspect;
+	renderer.material.color = Color.magenta;
+	renderer.material.color.a = 0.5f;
 }
 
 function Update () {
