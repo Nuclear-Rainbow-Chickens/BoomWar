@@ -1,20 +1,17 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LevelSelectScript.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TrophyScript.js">
     <Files>
-      <File FileName="Assets\Scripts\LevelSelectScript.js" Line="44" Column="2" />
       <File FileName="Assets\Scripts\LevelSelectScript.js" Line="2" Column="22" />
-      <File FileName="Assets\Scripts\LevelScript.js" Line="1" Column="1" />
       <File FileName="Assets\Scripts\InstructionScript.js" Line="1" Column="1" />
       <File FileName="Assets\Scripts\LogoScript.js" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\TitleScript.js" Line="1" Column="1" />
       <File FileName="Assets\Scripts\TargetScript.js" Line="1" Column="1" />
       <File FileName="Assets\Scripts\CameraScript.js" Line="1" Column="1" />
       <File FileName="Assets\Scripts\BlockScript.js" Line="1" Column="1" />
       <File FileName="Assets\Scripts\BulletScript.js" Line="1" Column="1" />
       <File FileName="Assets\Scripts\FireScript.js" Line="1" Column="1" />
       <File FileName="Assets\Scripts\BarrelScript.js" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\TrophyScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TrophyScript.js" Line="12" Column="3" />
       <File FileName="Assets\Scripts\TextScript.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
