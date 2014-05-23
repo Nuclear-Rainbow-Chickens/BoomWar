@@ -7,7 +7,10 @@ function Start () {
 }
 
 function Update () {
-
+	if((Input.GetKey(KeyCode.Escape)) && (GameOver == true)) {
+		Application.LoadLevel(1);
+	}
+		
 }
 function OnCollisionEnter(bullet:Collision) {
 	if((bullet.collider.gameObject.tag == "player1") && (GameOver == false)) {	

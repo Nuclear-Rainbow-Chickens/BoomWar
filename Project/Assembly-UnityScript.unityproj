@@ -52,6 +52,8 @@
      <Compile Include="Assets\Scripts\CameraScript.js" />
      <Compile Include="Assets\Scripts\FireScript.js" />
      <Compile Include="Assets\Scripts\InstructionScript.js" />
+     <Compile Include="Assets\Scripts\LevelScript.js" />
+     <Compile Include="Assets\Scripts\LevelSelectScript.js" />
      <Compile Include="Assets\Scripts\LogoScript.js" />
      <Compile Include="Assets\Scripts\TargetScript.js" />
      <Compile Include="Assets\Scripts\TextScript.js" />
